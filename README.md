@@ -1,4 +1,4 @@
-### Olá, eu sou o Lukas132ss 👋
+### Olá, eu sou o Lukas Santos 👋
 
 - 🌱 Atualmente estudando Desenvolvimento Web e Python.
 - 🤔 Estou em busca de uma vaga de Estagio.
