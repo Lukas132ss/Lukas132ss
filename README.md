@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estudando Desenvolvimento Web e Python.
 - 🤔 Estou em busca de uma vaga de Estagio.
-- 📫 Contate-me no email: lk@serrante.com.br
 - 😄 Pronomes: ele/dele.
 
 <div align="center">
